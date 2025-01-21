@@ -1,4 +1,4 @@
-let numeroIntroductor = parseInt(prompt("Introduce un número"));
+let numeroIntroductor = (prompt("Introduce un número"));
 
 if (numeroIntroductor % 2 === 0) {
     alert("si");
